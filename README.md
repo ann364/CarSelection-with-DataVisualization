@@ -1,4 +1,4 @@
-# CarSelection with DataVisualization
+# Car Selection with Data Visualization
 
 ## Objective:
 
